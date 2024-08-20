@@ -1,8 +1,8 @@
 # "Decodificador de texto"
-Este projeto foi desenvolvido durante a primeira sprint do programa Oracle Next Education, em parceria com a Alura. O objetivo é criar uma ferramenta para decodificar textos criptografados.
+Este projeto foi desenvolvido durante a primeira sprint do programa Oracle Next Education, em parceria com a Alura. O objetivo é criar uma ferramenta para criptografar e descriptografar textos.
 
 ## 📋 Sobre
-Esta é uma aplicação simples projetada para criptografar textos. Com ela, você pode se divertir trocando mensagens secretas com outras pessoas que conheçam a chave de criptografia utilizada. 
+Esta é uma aplicação simples projetada para criptografar ou descriptografar textos. Com ela, você pode se divertir trocando mensagens secretas com outras pessoas que conheçam a chave de criptografia utilizada. 
 
 ## 💻 Tecnologias
 HTML, CSS e Javascript
